@@ -1,0 +1,8 @@
+{
+  "magisk": {
+    "version": "bada25d5",
+    "versionCode": "30600",
+    "link": "https://github.com/pixincreate/Magisk/releases/download/v30.6/app-release.apk",
+    "note": "https://github.com/pixincreate/Magisk/releases/download/v30.6/notes.md"
+  }
+}
